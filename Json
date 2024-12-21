@@ -1,0 +1,13 @@
+[
+ {
+ "run": "14141414-9",
+ "nombre": "Giorgio",
+ "apellido": "POO",
+ "direccion": "Inacap",
+ "fono": 14141414,
+ "correo":"giorgio.ravello@inacapmail.cl",
+ "montoCredito": 505050,
+ "deuda":606060,
+ "tipo": 3
+ }
+]
